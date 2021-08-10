@@ -1,0 +1,6 @@
+{
+  "active": true,
+  "address": "localhost",
+  "port": 4444,
+  "retry_count": 5
+}

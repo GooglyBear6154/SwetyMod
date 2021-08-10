@@ -1,0 +1,8 @@
+[ 
+	{ "name":"!off",	"message":"Turning the bot off.....sad robot"},
+	{ "name":"!on",		"message":"Turning the bot on....at least buy it dinner first"},
+	{ "name":"!status", "message":"Bot is currently enabled"},
+	{ "name":"!status", "message":"Bot is currently disabled"},
+	{ "name":"!save",	"message":"Saving points..."},
+	{ "name":"!stop", "message":"Bot is shutting down..."}
+]
