@@ -262,7 +262,7 @@ function everyoneCommands(message){
 
             if( getUserPoints(message.user) >= amount ){
 
-                var msg = ( bot.settings.trovo.name + " rolled a " + botAmount + ". @" + message.user + " rolled a " + diceAmount)
+                var msg = ( bot.settings.trovo.bot_name + " rolled a " + botAmount + ". @" + message.user + " rolled a " + diceAmount)
                 if( botAmount > diceAmount ){
                     msg = msg + ". Looks like the bot won. suckah!"
                     updatePoints(message.user, -amount)
