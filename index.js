@@ -212,7 +212,7 @@ function modCommands(message){
                 client.sendMessage("User is already in viewers")
             }
             break;
-        case "!addPoints":
+        case "!addpoints":
             addedUser = addedUser.replace("@", "");
             if( userInViewers(addedUser) && parseInt(pts) > 0){
                 updatePoints(addedUser, parseInt(pts), viewers)
