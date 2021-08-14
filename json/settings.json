@@ -1,21 +1,21 @@
 {
   "prefix": "!",
   "trovo": {
-    "email": "trovobot_one@yahoo.com",
-    "password": "C0ns0l3N4ti0nB0t!",
+    "email": "",
+    "password": "",
     "bot_name": "Swety_Mod",
-    "page": "https://trovo.live/Console_Nation"
+    "page": ""
   },
   "owner": {
-    "name": "GooglyBear_",
+    "name": "",
     "email": "",
     "password": ""
   },
   "dev": {
-    "name": "GooglyBear_"
+    "name": ""
   },
   "bot":{
-    "name": "Nightbot"
+    "name": ""
   },
   "lang": "en",
   "console": true
